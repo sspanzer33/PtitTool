@@ -1,0 +1,4 @@
+aiohttp~=3.10.11
+asyncio~=3.4.3
+typing~=3.7.4.3
+lxml~=4.6.3
